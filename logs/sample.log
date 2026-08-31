@@ -1,0 +1,8 @@
+2026-08-31 08:12:01 INFO  [app] Application démarrée sur le port 8080
+2026-08-31 08:15:10 ERROR [payment] Timeout lors de l'appel au service de paiement externe
+2026-08-31 08:15:11 ERROR [payment] Retry 1/3 échoué : connection reset by peer
+2026-08-31 08:15:15 CRITICAL [payment] Circuit breaker ouvert : service de paiement indisponible
+2026-08-31 08:20:44 WARN  [auth] Tentative de connexion échouée pour user=jdupont
+2026-08-31 08:21:06 ERROR [auth] Compte user=jdupont verrouillé après 3 échecs consécutifs
+2026-08-31 09:02:17 CRITICAL [db] Perte de connexion à la base de données principale
+2026-08-31 09:05:00 INFO  [db] Connexion à la base principale rétablie
