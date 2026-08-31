@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+analysis_report_*.md
+analysis_report_*.json
+.DS_Store
