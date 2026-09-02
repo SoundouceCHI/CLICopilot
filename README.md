@@ -1,6 +1,6 @@
 # LogAI : CLI Copilot d'Analyse de Logs par IA
 
-**LogAI** est un outil en ligne de commande (CLI) développé en Python. Il utilise les API d'IA générative (OpenAI / Anthropic Claude) pour analyser automatiquement des fichiers de logs complexes, détecter les anomalies, expliquer la cause racine des erreurs et proposer des correctifs en temps réel.
+**LogAI** est un outil en ligne de commande (CLI) développé en Python. Il utilise les API d'IA générative (Gemini/ OpenAI / Anthropic Claude) pour analyser automatiquement des fichiers de logs complexes, détecter les anomalies, expliquer la cause racine des erreurs et proposer des correctifs en temps réel.
 
 ---
 
