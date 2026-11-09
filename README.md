@@ -15,7 +15,7 @@
 
 ## Architecture & Stack Technique
 
-- **Langage :** Python 3.10+
+- **Langage :** Python 3.12
 - **CLI Framework :** `argparse` / `click`
 - **IA / LLM Integration :** `openai` (Structured Outputs) / Anthropic SDK
 - **Data & Parsing :** `pydantic` (Validation et typage strict du JSON de sortie)
